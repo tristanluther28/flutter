@@ -1,0 +1,27 @@
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Release\CoreAudioApi.dll
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Release\usbGenericHidCommunications.dll
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Release\CoreAudioApi.pdb
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Release\usbGenericHidCommunications.pdb
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\segmentVolumeDevice.Form1.resources
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\segmentVolumeDevice.csproj.GenerateResource.cache
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\segmentVolumeDevice.csproj.CoreCompileInputs.cache
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\segmentVolumeDevice.csproj.CopyComplete
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Release\Flutter v1.0.exe.config
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Release\Flutter v1.0.exe
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Release\Flutter v1.0.pdb
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\Flutter v1.0.exe
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\Flutter v1.0.pdb
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\segmentVolumeDevice.Properties.Resources.resources
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Release\Flutter v1.0.exe.config
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Release\Flutter v1.0.exe
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Release\Flutter v1.0.pdb
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Release\CoreAudioApi.pdb
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Release\usbGenericHidCommunications.pdb
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\segmentVolumeDevice.csprojAssemblyReference.cache
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\segmentVolumeDevice.Form1.resources
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\segmentVolumeDevice.Properties.Resources.resources
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\segmentVolumeDevice.csproj.GenerateResource.cache
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\segmentVolumeDevice.csproj.CoreCompileInputs.cache
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\segmentVolumeDevice.csproj.CopyComplete
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\Flutter v1.0.exe
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Release\Flutter v1.0.pdb

@@ -1,0 +1,28 @@
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.Form1.resources
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.csproj.GenerateResource.cache
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.csproj.CoreCompileInputs.cache
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\CoreAudioApi.dll
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\CoreAudioApi.pdb
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.csproj.CopyComplete
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.csprojAssemblyReference.cache
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\Flutter v1.0.exe.config
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\Flutter v1.0.exe
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\Flutter v1.0.pdb
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\Flutter v1.0.exe
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\Flutter v1.0.pdb
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.Properties.Resources.resources
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\Flutter v1.0.exe.config
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\Flutter v1.0.exe
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\Flutter v1.0.pdb
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\CoreAudioApi.pdb
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.csprojAssemblyReference.cache
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.Form1.resources
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.Properties.Resources.resources
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.csproj.GenerateResource.cache
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.csproj.CoreCompileInputs.cache
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.csproj.CopyComplete
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\Flutter v1.0.exe
+C:\Users\trist\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\Flutter v1.0.pdb

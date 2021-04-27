@@ -1,0 +1,14 @@
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\Tristan's Workshop.exe.config
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\Tristan's Workshop.exe
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\Tristan's Workshop.pdb
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\Tristan's Workshop.csprojAssemblyReference.cache
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\Tristan_s_Workshop.Form1.resources
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\Tristan_s_Workshop.Properties.Resources.resources
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\Tristan's Workshop.csproj.GenerateResource.cache
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\Tristan's Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\Tristan's Workshop.exe
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\Tristan's Workshop.pdb
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\CoreAudioApi.dll
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\bin\Debug\CoreAudioApi.pdb
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\Tristan's Workshop.csproj.CopyComplete
+C:\Users\Tristan Luther\source\repos\Tristan's Workshop\Tristan's Workshop\obj\Debug\segmentVolumeDevice.Form1.resources
